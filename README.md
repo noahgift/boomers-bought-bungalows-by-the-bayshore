@@ -14,5 +14,7 @@ TBD Sources
 * Purple State (State can flip either Democrat or Republican)
 * Relative Homeless by Population (i.e. is it higher or lower than average and by how much)
 * Taxation
+* San Francisco School Demographics:  https://priceonomics.com/where-are-all-the-white-people-in-san-francisco/
+
 
 ![Race_and_ethnicity_2010-_San_Francisco,_Oakland,_Berkeley_(5560477152)](https://user-images.githubusercontent.com/58792/127786182-965f256d-331a-43ec-b03c-2e5b9328bfa3.png)
