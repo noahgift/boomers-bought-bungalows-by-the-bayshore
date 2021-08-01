@@ -1,0 +1,289 @@
+Overall Rank,MSA,Total Score,Educational Attainment,Quality of Education & Attainment Gap
+1,"Ann Arbor, MI",94.02,1,1
+2,"San Jose-Sunnyvale-Santa Clara, CA",82.6,4,4
+3,"Washington-Arlington-Alexandria, DC-VA-MD-WV",82.06,2,24
+4,"San Francisco-Oakland-Berkeley, CA",80.74,5,17
+5,"Madison, WI",80.06,3,49
+6,"Boston-Cambridge-Newton, MA-NH",78.8,6,38
+7,"Durham-Chapel Hill, NC",77.31,9,5
+8,"Seattle-Tacoma-Bellevue, WA",75.28,10,14
+9,"Austin-Round Rock-Georgetown, TX",72.54,15,11
+10,"Provo-Orem, UT",72.48,14,22
+11,"Raleigh-Cary, NC",72.33,8,133
+12,"Bridgeport-Stamford-Norwalk, CT",72.27,7,146
+13,"Colorado Springs, CO",71.62,12,31
+14,"Denver-Aurora-Lakewood, CO",70.53,11,85
+15,"Trenton-Princeton, NJ",69.69,16,77
+16,"Portland-Vancouver-Hillsboro, OR-WA",69.63,19,43
+17,"Portland-South Portland, ME",69.36,17,71
+18,"Tallahassee, FL",68.93,22,9
+19,"Minneapolis-St. Paul-Bloomington, MN-WI",67.9,13,120
+20,"San Diego-Chula Vista-Carlsbad, CA",67.37,25,3
+21,"Baltimore-Columbia-Towson, MD",66.58,18,116
+22,"Albany-Schenectady-Troy, NY",66.24,20,91
+23,"Lexington-Fayette, KY",64.87,24,35
+24,"Huntsville, AL",64.86,23,60
+25,"New York-Newark-Jersey City, NY-NJ-PA",64.69,28,16
+26,"Atlanta-Sandy Springs-Alpharetta, GA",64.65,29,18
+27,"Hartford-East Hartford-Middletown, CT",64.14,21,128
+28,"Urban Honolulu, HI",62.13,46,7
+29,"Lansing-East Lansing, MI",61.67,35,41
+30,"Asheville, NC",61.38,43,25
+31,"Santa Rosa-Petaluma, CA",61.34,37,52
+32,"Chicago-Naperville-Elgin, IL-IN-WI",61.17,32,67
+33,"Pittsburgh, PA",60.91,38,40
+34,"Manchester-Nashua, NH",60.69,26,132
+35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",60.59,31,90
+36,"Eugene-Springfield, OR",60.54,49,19
+37,"Richmond, VA",60.34,34,80
+38,"Kansas City, MO-KS",60.27,27,121
+39,"Rochester, NY",60.21,30,111
+40,"Salt Lake City, UT",60.18,41,50
+41,"Omaha-Council Bluffs, NE-IA",60.18,36,82
+42,"Virginia Beach-Norfolk-Newport News, VA-NC",59.55,53,21
+43,"New Haven-Milford, CT",58.97,39,105
+44,"Columbus, OH",58.76,40,107
+45,"Nashville-Davidson--Murfreesboro--Franklin, TN",58.53,50,59
+46,"Spokane-Spokane Valley, WA",58.53,52,46
+47,"Naples-Marco Island, FL",58.51,54,42
+48,"St. Louis, MO-IL",58.49,33,138
+49,"Sacramento-Roseville-Folsom, CA",58.12,57,37
+50,"Tucson, AZ",58.05,55,48
+51,"Charlotte-Concord-Gastonia, NC-SC",57.73,61,28
+52,"Albuquerque, NM",57.45,59,47
+53,"Worcester, MA-CT",57.29,51,88
+54,"Anchorage, AK",57.03,42,129
+55,"Des Moines-West Des Moines, IA",56.79,44,123
+56,"Milwaukee-Waukesha, WI",56.75,45,130
+57,"Charleston-North Charleston, SC",56.69,48,118
+58,"Boise City, ID",56.44,68,29
+59,"Cincinnati, OH-KY-IN",56.02,62,64
+60,"Buffalo-Cheektowaga, NY",55.63,47,135
+61,"Syracuse, NY",55.55,58,115
+62,"Orlando-Kissimmee-Sanford, FL",55.53,78,15
+63,"Springfield, MA",55.27,64,61
+64,"Reno, NV",55.12,76,26
+65,"Columbia, SC",55.04,63,81
+66,"Santa Maria-Santa Barbara, CA",54.96,83,8
+67,"North Port-Sarasota-Bradenton, FL",54.66,56,143
+68,"Dayton-Kettering, OH",54.58,70,68
+69,"Fayetteville-Springdale-Rogers, AR",54.43,89,2
+70,"Grand Rapids-Kentwood, MI",54.41,69,79
+71,"Jacksonville, FL",54.08,75,54
+72,"Oxnard-Thousand Oaks-Ventura, CA",53.73,73,75
+73,"Dallas-Fort Worth-Arlington, TX",53.73,77,55
+74,"Indianapolis-Carmel-Anderson, IN",53.67,65,106
+75,"Akron, OH",53.2,74,99
+76,"Palm Bay-Melbourne-Titusville, FL",53.11,67,125
+77,"Little Rock-North Little Rock-Conway, AR",52.64,81,62
+78,"Detroit-Warren-Dearborn, MI",52.54,66,134
+79,"Miami-Fort Lauderdale-Pompano Beach, FL",52.36,93,10
+80,"Phoenix-Mesa-Chandler, AZ",52.27,82,70
+81,"Birmingham-Hoover, AL",51.72,80,97
+82,"Savannah, GA",51.7,72,127
+83,"Tampa-St. Petersburg-Clearwater, FL",51.39,88,45
+84,"Oklahoma City, OK",51.29,87,51
+85,"Cleveland-Elyria, OH",51.27,71,141
+86,"Harrisburg-Carlisle, PA",51.22,84,92
+87,"Ogden-Clearfield, UT",50.89,60,150
+88,"Wichita, KS",50.64,79,124
+89,"Providence-Warwick, RI-MA",50.63,86,94
+90,"Louisville/Jefferson County, KY-IN",50.4,85,104
+91,"Knoxville, TN",50.26,91,56
+92,"Los Angeles-Long Beach-Anaheim, CA",50.25,99,23
+93,"Houston-The Woodlands-Sugar Land, TX",50.24,95,36
+94,"Peoria, IL",49.33,94,69
+95,"Springfield, MO",48.9,96,72
+96,"Jackson, MS",48.67,90,108
+97,"Greensboro-High Point, NC",48.43,106,30
+98,"Pensacola-Ferry Pass-Brent, FL",48.42,92,109
+99,"Greenville-Anderson, SC",48.23,103,53
+100,"Allentown-Bethlehem-Easton, PA-NJ",47.94,98,89
+101,"Montgomery, AL",47.78,97,103
+102,"New Orleans-Metairie, LA",47.55,100,86
+103,"Toledo, OH",47.36,102,96
+104,"Fort Wayne, IN",46.94,105,76
+105,"San Antonio-New Braunfels, TX",46.31,113,27
+106,"Memphis, TN-MS-AR",46.16,104,112
+107,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",46.04,112,44
+108,"Tulsa, OK",45.84,109,95
+109,"Cape Coral-Fort Myers, FL",45.8,108,101
+110,"Davenport-Moline-Rock Island, IA-IL",45.64,101,140
+111,"Winston-Salem, NC",45.36,119,20
+112,"Fayetteville, NC",45.26,114,39
+113,"Killeen-Temple, TX",43.9,111,117
+114,"Chattanooga, TN-GA",43.83,115,78
+115,"Baton Rouge, LA",43.76,118,63
+116,"Salem, OR",43.22,120,58
+117,"Salisbury, MD-DE",42.91,110,142
+118,"Port St. Lucie, FL",42.82,116,102
+119,"Vallejo, CA",42.17,107,147
+120,"Las Vegas-Henderson-Paradise, NV",41.62,124,32
+121,"Augusta-Richmond County, GA-SC",40.86,121,119
+122,"Scranton--Wilkes-Barre, PA",40.07,122,122
+123,"Flint, MI",39.81,123,126
+124,"Canton-Massillon, OH",39.8,126,65
+125,"Gulfport-Biloxi, MS",39.22,125,100
+126,"Deltona-Daytona Beach-Ormond Beach, FL",39.19,117,148
+127,"Shreveport-Bossier City, LA",38.92,129,87
+128,"York-Hanover, PA",38.73,128,98
+129,"Lancaster, PA",38.69,130,84
+130,"Rockford, IL",37.1,127,131
+131,"Mobile, AL",36.59,133,33
+132,"Reading, PA",36.26,131,110
+133,"Youngstown-Warren-Boardman, OH-PA",35.73,132,83
+134,"Lafayette, LA",35.22,140,6
+135,"El Paso, TX",34.58,139,13
+136,"Huntington-Ashland, WV-KY-OH",34.05,134,73
+137,"Riverside-San Bernardino-Ontario, CA",33.23,136,74
+138,"Lakeland-Winter Haven, FL",32.22,137,57
+139,"Beaumont-Port Arthur, TX",29.6,141,93
+140,"Fresno, CA",29.14,144,34
+141,"Corpus Christi, TX",28.99,138,137
+142,"Ocala, FL",28.63,135,149
+143,"Salinas, CA",27.88,143,113
+144,"Stockton, CA",26.17,145,66
+145,"Hickory-Lenoir-Morganton, NC",25.39,142,144
+146,"Modesto, CA",20.41,146,139
+147,"Bakersfield, CA",15.81,147,136
+148,"McAllen-Edinburg-Mission, TX",14.14,150,12
+149,"Brownsville-Harlingen, TX",10.1,149,114
+150,"Visalia, CA",9.93,148,145
+,,,,
+Note: *1 = Most Educated,,,,
+"With the exception of “Total Score,” all of the columns in the table above depict the relative rank of that MSA, where a rank of 1 represents the best conditions for that metric category.",,,,
+State,Overall Education Ranking,Annual Median Household Income Ranking,Category,
+"New York, NY",25,18,High Education Level & High income,
+"Dallas, TX",73,36,High Education Level & High income,
+"Miami, FL",79,97,Low Education Level & Low Income,
+"Boston, MA",6,5,High Education Level & High income,
+"Riverside, CA",137,54,Low Education Level & High income,
+"Minneapolis, MN",19,15,High Education Level & High income,
+"Denver, CO",14,16,High Education Level & High income,
+"Charlotte, NC",51,65,High Education Level & High income,
+"Portland, OR",16,24,High Education Level & High income,
+"Cincinnati, OH",59,59,High Education Level & High income,
+"Austin, TX",9,20,High Education Level & High income,
+"Indianapolis, IN",74,69,High Education Level & High income,
+"Virginia Beach, VA",42,48,High Education Level & High income,
+"Jacksonville, FL",71,68,High Education Level & High income,
+"Raleigh, NC",11,21,High Education Level & High income,
+"Louisville, KY",90,84,Low Education Level & Low Income,
+"Buffalo, NY",60,92,High Education Level & Low income,
+"Grand Rapids, MI",70,64,High Education Level & High income,
+"Honolulu, HI",28,8,High Education Level & High income,
+"Worcester, MA",53,27,High Education Level & High income,
+"Greenville, SC",99,110,Low Education Level & Low Income,
+"New Haven, CT",43,39,High Education Level & High income,
+"Knoxville, TN",91,113,Low Education Level & Low Income,
+"Allentown, PA",100,46,Low Education Level & High income,
+"Dayton, OH",68,106,High Education Level & Low income,
+"Stockton, CA",144,58,Low Education Level & High income,
+"Colorado Springs, CO",13,41,High Education Level & High income,
+"Springfield, MA",63,81,High Education Level & Low income,
+"Winston-Salem, NC",111,134,Low Education Level & Low Income,
+"Syracuse, NY",61,76,High Education Level & Low income,
+"Wichita, KS",88,95,Low Education Level & Low Income,
+"Augusta, GA",121,121,Low Education Level & Low Income,
+"Harrisburg, PA",86,55,Low Education Level & High income,
+"Spokane, WA",46,99,High Education Level & Low income,
+"Youngstown, OH",133,143,Low Education Level & Low Income,
+"Fayetteville, NC",112,141,Low Education Level & Low Income,
+"Santa Rosa, CA",31,14,High Education Level & High income,
+"Port St. Lucie, FL",118,109,Low Education Level & Low Income,
+"Visalia, CA",150,137,Low Education Level & Low Income,
+"Asheville, NC",30,125,High Education Level & Low income,
+"Killeen, TX",113,111,Low Education Level & Low Income,
+"Mobile, AL",131,144,Low Education Level & Low Income,
+"Brownsville, TX",149,150,Low Education Level & Low Income,
+"Gulfport, MS",125,138,Low Education Level & Low Income,
+"Fort Wayne, IN",104,107,Low Education Level & Low Income,
+"Shreveport, LA",127,146,Low Education Level & Low Income,
+"Savannah, GA",82,80,Low Education Level & Low Income,
+"Montgomery, AL",101,127,Low Education Level & Low Income,
+"Trenton, NJ",15,13,High Education Level & High income,
+"Huntington, WV",136,147,Low Education Level & Low Income,
+EMBED ON YOUR WEBSITE,,,,
+,,,,
+"Note: For readability purposes, the above chart displays only 50 metro areas from a total sample of 150.",,,,
+,,,,
+Ask the Experts,,,,
+,,,,
+"Research shows that a skilled and educated workforce provides a significant boost to the economy. For strategies aimed at increasing a city’s brainpower and the best approaches to educational development, we asked a panel of experts to share their thoughts on the following key questions:",,,,
+,,,,
+"Should local authorities target policies and programs to attract highly educated people? If so, what works?",,,,
+Are highly educated cities better able to withstand economic shocks?,,,,
+"In your opinion, what is the most important step we can take as a country to develop a more educated and skilled workforce?",,,,
+What will be the short- and longer-term impact of school closures during the pandemic?,,,,
+How can the U.S. reform its immigration policy in order to attract and retain highly educated workers from abroad?,,,,
+Jennifer L. Steele,,,,
+"Ed.D. – Associate Professor, School of Education; Affiliate Faculty, Department of Public Administration and Policy – American University",,,,
+READ MORERichard H Bauscher,,,,
+"Ed.D. – Clinical Associate Professor, Leadership and Counseling, College of Education, Health and Human Sciences – University of Idaho",,,,
+READ MOREEdmund Adjapong,,,,
+"Ph.D. – Assistant Professor, Department of Educational Studies; Program Director, Secondary Education, College of Education and Human Services – Seton Hall University and Faculty Fellow, Institute For Urban and Minority Education at Teachers College – Columbia University",,,,
+READ MOREAnn Marcus,,,,
+"Professor and Director, The Steinhardt Institute for Higher Education Policy – New York University",,,,
+READ MOREWilliam Schmidt,,,,
+"University Distinguished Professor; Director, Center for the Study of Curriculum Policy – Michigan State University",,,,
+READ MORE,,,,
+,,,,
+Methodology,,,,
+,,,,
+"To identify the most and least educated cities in America, WalletHub compared the 150 most populated U.S. metropolitan statistical areas, or MSAs, across two key dimensions, including “Educational Attainment” and “Quality of Education & Attainment Gap.”",,,,
+,,,,
+"We evaluated those dimensions using 11 relevant metrics, which are listed below with their corresponding weights. Each metric was graded on a 100-point scale, with a score of 100 representing the highest educational attainment and quality of education. For metrics marked with two asterisks (**), we used the square root of the population to calculate the population size in order to avoid overcompensating for minor differences across cities.",,,,
+,,,,
+"Finally, we determined each metro area’s weighted average across all metrics to calculate its overall score and used the resulting scores to rank-order our sample.",,,,
+,,,,
+Educational Attainment - Total Points: 80,,,,
+Share of Adults Aged 25 & Older with a High School Diploma or Higher: Full Weight (~20.00 Points),,,,
+Share of Adults Aged 25 & Older with at Least Some College Experience or an Associate's Degree or Higher: Full Weight (~20.00 Points),,,,
+Share of Adults Aged 25 & Older with a Bachelor's Degree or Higher: Full Weight (~20.00 Points),,,,
+Share of Adults Aged 25 & Older with a Graduate or Professional Degree: Full Weight (~20.00 Points),,,,
+Quality of Education & Attainment Gap - Total Points: 20,,,,
+Quality of Public School System: Double Weight (~4.44 Points),,,,
+Note: This metric is based on GreatSchools.org’s ratings of U.S. public schools.,,,,
+Average Quality of Universities: Double Weight (~4.44 Points),,,,
+Note: This metric is based on WalletHub “College & University” rankings report.,,,,
+"Enrolled Students in Top 1,009 Universities per Capita: Full Weight (~2.22 Points)",,,,
+Note: This metric is based on WalletHub “College & University” rankings report.,,,,
+Number of Summer Learning Opportunities per Capita**: Full Weight (~2.22 Points),,,,
+Racial Education Gap*: Full Weight (~2.22 Points),,,,
+Note: This metric specifically measures the difference between the percentage of black bachelor’s degree holders and the percentage of their white counterparts.,,,,
+Gender Education Gap*: Full Weight (~2.22 Points),,,,
+Note: This metric specifically measures the difference between the percentage of female bachelor’s degree holders and the percentage of their male counterparts.,,,,
+Education Equality Index Score: Full Weight (~2.22 Points),,,,
+"Note: The Education Equality Index (EEI) is a comparative measure of the achievement gap between students from low-income families, as measured by participation in the free and reduced price lunch program, and their more advantaged peers. The EEI compares the proportion of students from low-income families who are proficient on a state assessment to all students across the state who took that same grade or subject level assessment.",,,,
+,,,,
+"*Additional context: In metro areas where women have an advantage over men and black people have an advantage over white people, we gave extra credit compared to the metro areas with no gender-based/racial inequality.",,,,
+,,,,
+"Sources: Data used to create this ranking were collected from the U.S. Census Bureau, GreatSchools.org, Education Cities.org, Yelp and WalletHub research.",,,,
+,,,,
+Supporting Video Files:,,,,
+YouTube - National (for web embedding),,,,
+"YouTube - Ann Arbor, MI (for web embedding)",,,,
+Raw video files (for editing into clips),,,,
+,,,,
+Questions & Answers,,,,
+Ask your Question,,,,
+Was this article helpful?,,,,
+YesNo,,,,
+PREVIOUS ARTICLE,,,,
+Rental Car Insurance,,,,
+NEXT ARTICLE,,,,
+Bank of America Travel Rewards Card Review,,,,
+,,,,
+"Disclaimer: Editorial and user-generated content is not provided or commissioned by financial institutions. Opinions expressed here are the author’s alone and have not been approved or otherwise endorsed by any financial institution, including those that are WalletHub advertising partners. Our content is intended for informational purposes only, and we encourage everyone to respect our content guidelines. Please keep in mind that it is not a financial institution’s responsibility to ensure all posts and questions are answered.",,,,
+,,,,
+"Ad Disclosure: Certain offers that appear on this site originate from paying advertisers, and this will be noted on an offer’s details page using the designation ""Sponsored"", where applicable. Advertising may impact how and where products appear on this site (including, for example, the order in which they appear). At WalletHub we try to present a wide array of offers, but our offers do not represent all financial services companies or products.",,,,
+Related Content,,,,
+Best College Towns & Cities in AmericaBest & Worst Community CollegesBest & Worst States for TeachersStates with the Biggest Bullying ProblemsBest Universities RankingStates with the Best & Worst School Systems,,,,
+Best Offers,,,,
+Best Credit CardsBest Checking AccountsBest Savings AccountsBest Travel Credit CardsBest Cash Back Credit CardsBest Business Credit CardsBest Airline Credit CardBest Balance Transfer Credit CardsBest Car Insurance,,,,
+Free Credit Data,,,,
+Free Credit ScoreFree Credit ReportFree Credit Monitoring,,,,
+Credit Score Data,,,,
+Credit Score Range,,,,
+Popular Content,,,,
+Credit Cards for Bad Credit,,,,
