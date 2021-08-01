@@ -12,3 +12,5 @@ TBD Sources
 * Percentage of Population over 65
 * Climate
 * Purple State (State can flip either Democrat or Republican)
+* Relative Homeless by Population (i.e. is it higher or lower than average and by how much)
+* Taxation
