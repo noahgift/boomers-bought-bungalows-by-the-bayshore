@@ -11,7 +11,7 @@ TBD Sources
 * Median Home Prices
 * Percentage of Population over 65
 * Climate
-* Purple State (State can flip either Democrat or Republican)
+* [Purple State (State can flip either Democrat or Republican)](https://purplestatesofamerica.org)
 * Relative Homeless by Population (i.e. is it higher or lower than average and by how much)
 * Taxation
 * San Francisco School Demographics:  https://priceonomics.com/where-are-all-the-white-people-in-san-francisco/
